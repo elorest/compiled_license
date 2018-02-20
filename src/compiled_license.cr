@@ -8,7 +8,7 @@ module Compiled
   end
 end
 
-if ARGV[0]? && ARGV[0]? == "--license"
+if ARGV[0]? && ARGV[0]? == "--licenses"
   puts Compiled::License.display 
   exit 0 
 end
