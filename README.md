@@ -1,6 +1,7 @@
 # Compiled License
 
 Compiles the licences of all shards used in project into binary.
+This allows you to legally distribute binaries without having to package the licenses files from the shards.
 
 ## Installation
 
@@ -18,7 +19,10 @@ dependencies:
 require "compiled_license"
 ```
 
+Compile and run
+
 ```
+$ crystal build src/testapp.cr
 $ testapp --licenses
 # Returns all licenses to stdout
 ```
