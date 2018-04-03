@@ -1,4 +1,5 @@
-# compiled_license
+# Compiled License
+
 Compiles the licences of all shards used in project into binary.
 
 ## Installation
