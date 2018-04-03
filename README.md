@@ -1,6 +1,5 @@
 # compiled_license
-
-TODO: Write a description here
+Compiles the licences of all shards used in project into binary.
 
 ## Installation
 
@@ -18,7 +17,10 @@ dependencies:
 require "compiled_license"
 ```
 
-TODO: Write usage instructions here
+```
+$ testapp --licenses
+# Returns all licenses to stdout
+```
 
 ## Development
 
