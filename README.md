@@ -22,10 +22,6 @@ $ testapp --licenses
 # Returns all licenses to stdout
 ```
 
-## Development
-
-TODO: Write development instructions here
-
 ## Contributing
 
 1. Fork it ( https://github.com/elorest/compiled_license/fork )
