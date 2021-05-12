@@ -1,9 +1,9 @@
 name: compiled_license
-version: 0.1.3
+version: 1.0.0
 
 authors:
   - Isaac Sloan <isaac@isaacsloan.com>
 
-crystal: 0.24.1
+crystal: "> 0.24.1, < 1.1.0"
 
 license: MIT
